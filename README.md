@@ -1,6 +1,6 @@
 EdpSuperluminal
 ===============
-Version 0.0.1
+Version 1.0.0
 
 Introduction
 ------------
@@ -18,7 +18,7 @@ For best results, use this module in conjunction with APC.
 Installation
 ------------
 
-- Clone this module into your `module/` directory 
+- Clone this module into your `module/` directory and rename to `EdpSuperluminal` 
 - Enable `EdpSuperluminal` in `config/modules.config.php`
 - Add the following line in `composer.json` for autoload
 ```php
