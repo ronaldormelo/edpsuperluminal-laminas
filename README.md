@@ -30,6 +30,7 @@ Installation
   }
 }
 ```
+- Run `composer dump-autoload` to autoload the new module
 - Add the following line in `public/index.php` immediately after the `chdir()`
   call:
 
